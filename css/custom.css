@@ -1,0 +1,1739 @@
+/*
+Custom CSS
+*/
+
+
+
+body{
+  background-color: #fffbf7;
+  /* Stops the body from going under the navbar */
+  padding-top: 65px;
+font-family: "omnes-pro, sans-serif";
+}
+nav{
+  background-color: #fffbf7;
+    font-family: "omnes";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    padding-left: 0px;
+    line-height: 28px;
+    
+      
+}
+
+.home-words{
+   
+padding-bottom: 75px; 
+padding-top: 65px;
+    padding-left: 30px;
+}
+
+.dots{
+    color: white;
+}
+
+
+/*
+#spin:after {
+  content:"";
+  animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+  0%{content: "Worker"}
+  20%{ content:"Thinker"; }
+   40%{ content:"Doer"; }
+   60%{ content:"Worker"; }
+    80%{content: "Thinker"}
+  100%{content: "Doer"}
+*/
+/*
+    30% { content:"four"; }
+    40% { content:"five"; }
+ 50% { content:"six"; }
+   60% { content:"seven"; }
+    70% { content:"eight"; }
+    80% { content:"nine"; }
+    90% { content:"ten"; }
+    95% { content:"eleven"; }
+*/
+ 
+/*
+  0% { content:"Worker"; }
+ 10% { content:"Thinker"; }
+   20% { content:"Doer"; }
+    30% { content:"Worker"; }
+    40% { content:"Thinker"; }
+ 50% { content:"Doer"; }
+   60% { content:"Worker"; }
+    70% { content:"Thinker"; }
+    80% { content:"Doer"; }
+    90% { content:"Worker"; }
+    100% { content:"Thinker"; }
+*/
+    
+}
+/*
+.all-cols{
+  border-style: solid;
+   border-color: yellow; 
+}
+*/
+#img-got{
+  padding: 10px;
+  height: 400px;
+  width: auto;
+}
+#img-foo{
+  padding: 10px;
+  height: 400px;
+  z-index: -100;
+}
+h1{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 250px;
+    padding-left: 0px;
+    line-height: 128px;
+    padding-bottom: 240px;
+    padding-top: 220px;
+}
+
+.rowfoot{
+    padding-bottom: 30px;
+}
+
+h11{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    padding-left: 0px;
+    color: #797c7c;
+   
+
+}
+
+h2{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 42px;
+    padding-left: 0px;
+    line-height: 70px;
+    
+
+    }
+
+
+h8{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 42px;
+    padding-left: 0px;
+    line-height: 70px;
+    
+
+    }
+
+
+h3{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 180px;
+    line-height: 210px;
+    padding-top: 70px;
+    
+}
+
+.header-con{
+   margin-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+.nomobile{
+    display: inline-block;
+}
+
+.mobileonly{
+    display:none;
+}
+
+
+
+
+
+/*
+.email{
+    background-image: url(../img/email_headrer.png);
+    background-repeat: no-repeat;
+    margin-top: 325px;
+}
+
+.linkedin{
+    background-image:url(../img/linked_header.png);
+    background-repeat: no-repeat;
+    margin-top: 322px;
+}
+
+.insta{
+    background-image: url(../img/insta_header.png);
+    background-repeat: no-repeat;
+    margin-top: 325px;
+}
+*/
+
+.step-para{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.step-by{
+    padding-top: -120px;
+}
+
+.col-dot{
+    margin-top: -160px;
+    margin-left: 30px;
+    background-image:url(../gifs/working_Final_.gif);
+    background-repeat: no-repeat;
+ 
+    
+}
+
+.the-working{
+    margin-top: -100px;
+    margin-left: 75px;
+}
+
+.the-thinking{
+    margin-top: -80px;
+   
+}
+
+.the-doing{
+    margin-top: -80px;
+}
+
+.col-dot-2{
+
+    background-image: url(../gifs/thinking_panel.gif); 
+    background-repeat: no-repeat;
+   margin-top: -140px;
+    padding-right: 70px;
+       
+}
+
+.col-dot-3{
+    background-image: url(../gifs/doing_final_.gif);
+    background-repeat: no-repeat;
+    margin-top: -100px;
+
+}
+
+.work-para{
+    
+    padding-bottom: 150px;
+}
+
+.think-para{
+    padding-bottom: 150px;
+}
+
+.do-para{
+    padding-bottom: 150px;
+}
+
+.work3{
+    padding-top: 160px;
+}
+
+.rowfoot{
+    background-color: white;
+}
+
+.foot{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+p{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 28px;    
+}
+
+h5{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    
+  
+}
+
+
+
+h4{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    
+    padding-bottom: 50px;
+    line-height: 80px;
+}
+
+.project-motyf{
+    padding-top: 100px;
+}
+
+.motyf{
+    padding-bottom: 70px;
+}
+
+.sextember{
+    padding-bottom: 70px;
+}
+
+.rosalyn{
+    padding-bottom: 70px;
+}
+
+/*
+.header-work{
+    padding-bottom: 50px;
+}
+*/
+
+/*
+.motyf{
+    margin-left: 240px;
+}
+*/
+
+/*
+.identity{
+    padding-bottom: 50px;
+}
+*/
+.is-me{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.do-for-you{
+    padding-top: 20px;
+    padding-bottom: 20px;}
+
+
+
+.sequence{
+    padding-bottom: 100px;
+}
+
+
+
+.header-con{
+    padding-bottom: 40px;
+}
+
+.email-link{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+    color: black;
+     padding-bottom: 0px;}
+
+.email-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.email-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 8%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.email-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.linked-link{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+    color: black;
+     padding-bottom: 150px;}
+
+.linked-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.linked-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 12%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.linked-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.insta-link{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+    color: black;
+     padding-bottom: 150px;}
+
+.insta-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.insta-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 15%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.insta-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.email-row{
+    
+    padding-top: 50px;
+    font-family: "omnes";
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.linked-row{
+    padding-bottom: -50px;
+    font-family: "omnes";
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: -50px;
+    
+}
+
+.insta-row{
+        padding-bottom: -50px;
+    font-family: "omnes";
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: -50px;
+}
+
+h6{
+   font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 42px;
+
+} 
+
+.ros-title{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    color: black;
+    line-height: 100px;
+  
+}
+
+.ros-title:hover{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    color: #ff7118;
+   
+    line-height: 100px;
+    text-decoration: none;
+    }
+.ros-title:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 85%;
+  border-bottom: 2px solid;
+  margin-top: 30px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.ros-title:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.sex-title{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    color: black;
+    
+    line-height: 100px;
+}
+
+.sex-title:hover{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    color:#ff7118;
+    
+    line-height: 100px;
+    text-decoration: none;
+    
+}
+
+.sex-title:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 70%;
+  border-bottom: 2px solid;
+  margin-top: 30px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.sex-title:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.motyf-title{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    color: black;
+    
+    line-height: 100px;
+    
+} 
+.motyf-title:hover{
+       font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 72px;
+    color: #ff7118;
+    
+    line-height: 100px;
+    text-decoration: none;
+}
+
+.motyf-title:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 90%;
+  border-bottom: 2px solid;
+  margin-top: 30px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.motyf-title:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.gmail{
+    margin-top: -50px;
+}
+
+.contact-row{
+    padding-top: 200px;
+}
+
+.box-info-name{
+    margin-top: -170px;
+}
+
+.box-info-email{
+    padding-top: 10px;
+}
+
+.box-info-do{
+    padding-top: 10px;
+    padding-bottom: 120px;
+    
+}
+
+.motyf-banner{
+    background-image:url(../img/motyf-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+
+.disappear-when-big{
+    display: none;
+}
+
+
+h7{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 72px;
+    padding-bottom: 30px;
+    line-height: 87px;
+}
+
+h9{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 72px;
+    padding-bottom: 30px;
+    line-height: 87px;
+}
+
+.making-shapes{
+    padding-top: 100px;
+}
+
+.project{
+    font-family: "omnes";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;}
+
+.project-parag{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    
+}
+
+.motyf-arrows{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 150px;
+}
+
+ul li{
+    list-style-type: none;
+    
+}
+
+
+
+.deliver{
+      font-family: "omnes";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+}
+
+.time{
+      font-family: "omnes";
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+}
+
+
+
+.motyf-para{
+   
+margin-top: -100px;
+}
+
+.oct{
+    font-weight: 200;
+}
+
+.blurb-motyf{
+    padding-top: 110px;
+    padding-bottom: 100px;
+}
+
+.ftnote{
+    padding-top: 240px;
+}
+
+.branding{
+    margin-top: 30px;
+    margin-bottom: 10px;
+ 
+}
+
+.motyf-night{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    padding-left: 30px;
+}
+
+.note{
+    padding-top: 10px;
+}
+
+.motyf-dawson{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.designing{
+    margin-top: 110px;
+}
+
+.book-cover{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 5px;
+    padding-left: 30px;
+}
+
+.book-spread-1{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.book-spread-2{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+    padding-left: 20px;
+}
+
+.book-people{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 40px;
+    padding-left: 30px;
+    
+}
+
+.sign-wayfinding{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.venue-wayfinding{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-left: 20px;
+    margin-top: -100px;
+}
+
+.note-2{
+   margin-top: -50px;
+    margin-bottom: 200px;
+}
+
+.projects{
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+/*
+.project-2{
+    margin-top: -20px;
+}
+*/
+
+.sex-link{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    color: black;
+     padding-bottom: 150px;}
+
+.sex-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.sex-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 55%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.sex-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.ros-link{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    color: black;
+    padding-bottom: 150px;}
+
+.ros-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.ros-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 70%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.ros-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.motyf-link{
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    color: black;
+     padding-bottom: 150px;}
+
+
+.motyf-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+    color:#ff7118;
+    text-decoration: none;
+    
+}
+.motyf-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 40%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.motyf-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.sex-banner{
+    background-image:url(../img/sex-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+
+
+.sex-icons{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 150px;
+}
+
+
+
+.posters{
+    margin-top: -20px;
+}
+
+.sex-poster-2{
+    margin-top: -95px;
+}
+
+.sex-condom{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+margin-top: -15px;
+    padding-left: 10px;
+}
+
+.note-condom{
+    margin-top: -15px;
+}
+
+.note-post{
+    margin-top: -60px;
+}
+
+.evites{
+    padding-top: 45px;
+    padding-right:60px;
+}
+
+
+.sex-post-card{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-left: 45px;
+    margin-top: -70px;
+    
+  
+}
+
+.pop-my-sign{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 0px;
+    padding-left: 30px;
+}
+
+.sex-bus-sign{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-left: 30px;
+    margin-top: 60px;
+}
+
+.note-3{
+    padding-top: 20px;
+    margin-bottom: 150px;
+}
+
+.ros-banner{
+    background-image:url(../img/ros-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+
+.eery-film{
+    padding-top: 100px;
+}
+
+.ros-poster{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    padding-left: 30px;
+}
+
+.ros-pic-spread{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 5px;
+    padding-left: 30px;
+}
+
+.book-spread-2-ros{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+    padding-left: 80px;
+}
+
+.ros-promo-1{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.ros-promo-2{
+   
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-left: 30px;
+    padding-top: 40px;
+ 
+}
+
+.note-promo{
+    
+    margin-top: -270px;
+}
+
+.see-more-2{
+    
+    margin-top: 160px;
+   
+}
+
+.see-more-3{
+    
+    margin-top: 140px;}
+  
+
+.see-more{
+    margin-top: -50px;
+}
+
+/*
+.project-1{
+    margin-bottom: -150px;
+}
+*/
+
+/*
+.project-2{
+    margin-bottom: -150px;
+}
+*/
+
+
+
+
+
+/* .change{
+  color: white
+} */
+/* 
+# Responsive breakpoints
+# https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints
+Extra small   <576px  	.col-
+Small         ≥576px    .col-sm-
+Medium        ≥768px    .col-md-
+Large         ≥992px    .col-lg-
+Extra large   ≥1200px   .col-xl-
+*/
+
+/* Apply these rules if the screen width is LESS than 576px */
+
+@media(max-width:576px){
+  h2{
+    font-size: 1rem
+  }
+  #img-foo{
+    display: none;
+  }
+    
+    
+    
+@media only screen and (max-width: 576px)
+    
+{
+    
+    h1{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 88px;
+    padding-left: 20px;
+    line-height: 128px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+    
+h2{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 38px;
+    padding-left: 0px;
+    line-height: 54px;
+  
+}
+    
+h3{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 64px;
+    padding-left: 0px;
+    line-height: 82px;
+  
+}
+    
+    h8{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 38px;
+    padding-left: 0px;
+    line-height: 70px;
+  padding-bottom: -30px;
+    
+
+    }
+    
+h4{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 64px;
+    padding-left: 0px;
+    line-height: 68px;
+  
+}
+    
+p{font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    padding-left: 0px;
+    line-height: 24px;}
+    
+h5{font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    padding-left: 0px;
+    line-height: 24px;}
+    
+h7{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 45px;
+   
+    line-height: 52px;
+}
+    
+    h9{
+    font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 38px;
+   
+    line-height: 52px;
+}
+    
+    
+    
+    
+    .col-dot{
+  
+    background-image:url(../gifs/dot_jump_mob.gif);
+    background-repeat: no-repeat;
+        margin-top: -260px;
+        
+} 
+    
+    .col-dot-2{
+        background-image: url(../gifs/dot_think_mob.gif);
+        background-repeat: no-repeat;
+        margin-top: -230px;
+    }
+    
+    .col-dot-3{
+        background-image: url(../gifs/dot-do-mob.gif);
+        background-repeat: no-repeat;
+        margin-top: -230px;
+    }
+
+    .step-para{
+        margin-bottom: 70px;
+    }
+    
+    .work-para{
+        margin-bottom: 70px;
+        
+    }
+    
+    .think-para{
+       margin-bottom: 70px; 
+    }
+    
+    .do-para{
+        margin-bottom: -70px;
+    }
+    
+     .ros-title{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 44px;
+    color: black;
+    
+    line-height: 0px;
+    
+} 
+.ros-title:hover{
+       font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 44px;
+    color: #ff7118;
+    
+    line-height: 0px;
+    text-decoration: none;
+}
+
+.ros-title:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 70%;
+  border-bottom: 2px solid;
+  margin-top: 50px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.ros-title:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+    .sex-title{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 44px;
+    color: black;
+    
+    line-height: 50px;
+    
+} 
+.sex-title:hover{
+       font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 44px;
+    color: #ff7118;
+    
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.sex-title:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 80%;
+  border-bottom: 2px solid;
+  margin-top: 50px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.sex-title:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+    
+   .motyf-title{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 43px;
+    color: black;
+    
+    line-height: 50px;
+    
+} 
+.motyf-title:hover{
+       font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 43px;
+    color: #ff7118;
+    
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.motyf-title:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 90%;
+  border-bottom: 2px solid;
+  margin-top: 50px;
+margin-left: 15px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.motyf-title:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+    
+    .project-motyf{
+        padding-top: 100px;
+    }
+    
+    .project-sexy{
+       margin-top: -30px; 
+    }
+    
+    .project-rossy{
+        margin-top: -30px;
+    }
+    
+    .motyf-banner-mobile{
+    background-image:url(../img/motyf-banner-mobile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    }
+
+    .project{font-family: "omnes";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    padding-left: 0px;
+    line-height: 24px;}
+    
+    .project-parag{font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    padding-left: 0px;
+    line-height: 24px;}
+    
+    .nomobile{
+        display: none;
+    }
+    
+    .mobileonly{
+        display: block;
+        margin-left:-80px;
+        height: 200px;
+        margin-top: 30px;
+    }
+    .motyf-para{
+        margin-top: 20px;
+        margin-bottom: -20px;
+   
+    }
+    
+    
+    .motyf-arrows{
+        margin-top: -65px;
+        
+    }
+    
+    .blurb-motyf{
+        margin-top: -40px;
+        margin-bottom: -40px;
+        
+    }
+    
+    .making-shapes{
+        margin-top: -40px
+    }
+    
+    .branding{
+        margin-top: -10px;
+       margin-left: -15px
+    }
+    
+    .motyf-night{
+     
+    margin-left: -30px;
+        padding-right: 15px;
+    }
+    
+    .note{
+       margin-left: -15px 
+    }
+    
+    .motyf-dawson{
+       margin-left: -30px;
+        padding-right: 15px;
+        margin-top: -20px;
+        
+    }
+    
+    .designing{
+        margin-top:75px;
+        margin-left: -15px;
+    }
+    
+    .book-cover{
+         margin-left: -30px;
+        padding-right: 15px;
+    }
+    
+      .book-spread-1{
+         margin-left: -30px;
+        padding-right: 15px;
+          margin-top: -20px;
+    }
+    
+       .book-spread-2{
+         margin-left: -20px;
+        padding-right: -45px;
+          margin-top: 20px;
+    }
+    
+     .book-people{
+         margin-left: -30px;
+        padding-right: 15px;
+          margin-top: -20px;
+    }
+    
+    .sign-wayfinding{
+         margin-left: -30px;
+        padding-right: 15px;
+        margin-top: -5px;
+    }
+    
+     .venue-wayfinding{
+         margin-left: -20px;
+        padding-right: 15px;
+         margin-top: -40px;
+       
+    }
+    
+    .note-2{
+        margin-top: -15px;
+      margin-left: -10px;
+        margin-bottom: 90px;
+    }
+    
+    .see-more{
+        margin-left: -10px;
+   
+    }
+    
+
+    .sex-link{
+        margin-left: -15px;
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    color: black;
+     padding-bottom: 100px;}
+
+.sex-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.sex-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 35%;
+  border-bottom: 1px solid;
+  margin-top: 7px;
+margin-left: 0px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.sex-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.ros-link{
+     margin-left: -15px;
+    font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    color: black;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    margin-left: -15px;}
+    
+
+
+.ros-link:hover{
+      font-family: "omnes";
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    color: #ff7118;
+    text-decoration: none;
+    
+}
+
+.ros-link:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 30%;
+  border-bottom: 1px solid;
+  margin-top: 7px;
+margin-left: 0px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+    color:#ff7118; 
+}
+
+.ros-link:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+  
+    .motyf-banner-mobile{
+     width: 90px;
+        height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+        padding-right: 30px;
+    
+   
+}
+    
+    .the-working{
+        margin-top: -110px;
+        margin-left: 10px;
+    }
+    
+   
+    
+    
+    
+    }
+/*
+  .all-cols{
+    border-color:black;
+  }
+*/
+}
+
+/* Apply these rules if the screen width is GREATER than 576px */
+
+/*
+@media (min-width: 576px) {
+  .all-cols{
+    border-color:white;
+  }
+*/
+}
+
+/* Apply these rules if the screen width is GREATER than 768px */
+
+/*
+@media (min-width: 768px) {
+  .all-cols{
+    border-color:blue;
+*/
+  
+}
+
+/* Apply these rules if the screen width is GREATER than 992px */
+
+/*
+@media (min-width: 992px) {
+  .all-cols{
+    border-color:yellow;
+  }
+*/
+}
+
+/* Apply these rules if the screen width is GREATER than 1200px */
+
+/*
+@media (min-width: 1200px) {
+  .all-cols{
+    border-color:red;
+  }
+*/
+}
